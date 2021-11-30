@@ -1,0 +1,29 @@
+{
+  "name": "lesson-2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "colors": "^1.4.0",
+    "inquirer": "^8.2.0",
+    "yargs": "^17.2.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "node cli.js"
+  },
+  "bin": {
+    "reader": "cli.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dimonu4/Node-JS.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dimonu4/Node-JS/issues"
+  },
+  "homepage": "https://github.com/dimonu4/Node-JS#readme"
+}
